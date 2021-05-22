@@ -20,3 +20,4 @@
 
 - 更新记录：[链接](./docs/update-log.md)
 - releases(用于云函数)：[链接](https://github.com/aowubulao/auto-cpdaily/releases)
+ 
